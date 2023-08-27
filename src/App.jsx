@@ -63,6 +63,7 @@ const App = () => {
               <option value="PHP">PHP</option>
               <option value="THB">THB</option>
               <option value="IDR">IDR</option>
+              <option value="MYR">MYR</option>
             </select>
           </div>
         </div>
@@ -84,6 +85,7 @@ const App = () => {
               <option value="PHP">PHP</option>
               <option value="THB">THB</option>
               <option value="IDR">IDR</option>
+              <option value="MYR">MYR</option>
             </select>
           </div>
         </div>
